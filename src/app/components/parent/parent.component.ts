@@ -14,7 +14,7 @@ public num:number=0;
   }
 
   chnageDetection(){
-    console.log('chnage detection...');
+    console.log('chnage detection ...');
     
   }
 
